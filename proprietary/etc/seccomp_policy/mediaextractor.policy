@@ -1,0 +1,6 @@
+clock_gettime: 1
+gettimeofday: 1
+ioprio_set: 1
+setrlimit: 1
+setsockopt: 1
+unlinkat: 1

@@ -1,0 +1,4 @@
+service bmi160d /vendor/bin/bmi160d
+    class main
+    user system
+    group system
